@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223578029045",
+    "project_id": "praticesfirebase-ade37",
+    "storage_bucket": "praticesfirebase-ade37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223578029045:android:8d3fcde89602207dd9bebc",
+        "android_client_info": {
+          "package_name": "com.example.pratices_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223578029045-iasuuf1qe8i874ecl73p400gilm2q5eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtiYyGosIDN_iBVHI183J2HzVFyrqTkRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223578029045-iasuuf1qe8i874ecl73p400gilm2q5eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
